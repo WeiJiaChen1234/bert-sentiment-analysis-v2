@@ -1,0 +1,15 @@
+# 忽略超大模型文件（必加！）
+bert_pretrain/pytorch_model.bin
+saved_dict/
+
+# 忽略 IDE 配置
+.idea/
+
+# 忽略 Python 缓存和虚拟环境
+__pycache__/
+*.pyc
+venv/
+
+# 忽略日志和临时文件
+*.log
+*.tmp
